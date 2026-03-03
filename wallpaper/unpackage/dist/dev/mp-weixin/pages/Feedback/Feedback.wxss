@@ -1,0 +1,25 @@
+
+.feedback-static.data-v-6881f491 {
+  padding: 40rpx 20rpx;
+  text-align: center;
+}
+.title.data-v-6881f491 {
+  font-size: 36rpx;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+}
+.desc.data-v-6881f491 {
+  font-size: 28rpx;
+  color: #666;
+  margin-bottom: 30rpx;
+}
+.qrcode.data-v-6881f491 {
+  width: 300rpx;
+  height: 300rpx;
+  margin: 0 auto;
+}
+.tip.data-v-6881f491 {
+	display: block;
+  font-size: 26rpx;
+  color: #999;
+}

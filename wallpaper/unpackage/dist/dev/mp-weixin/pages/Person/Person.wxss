@@ -1,0 +1,48 @@
+
+.person-container.data-v-976f2597 {
+		padding: 20rpx;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 30rpx;
+		margin-top: 200rpx;
+}
+.img.data-v-976f2597 {
+		position: relative;
+		width: 160rpx;
+		height: 160rpx;
+		border-radius: 50%;
+		overflow: hidden;
+		border: 1px solid #eee;
+}
+.img image.data-v-976f2597 {
+		width: 100%;
+		height: 100%;
+}
+.upload-tip.data-v-976f2597 {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		height: 40rpx;
+		line-height: 40rpx;
+		text-align: center;
+		font-size: 24rpx;
+		color: #fff;
+		background: rgba(0, 0, 0, 0.5);
+}
+.name input.data-v-976f2597 {
+		width: 600rpx;
+		height: 80rpx;
+		padding: 0 20rpx;
+		border: 1px solid #eee;
+		border-radius: 10rpx;
+}
+button.data-v-976f2597 {
+		width: 600rpx;
+		height: 80rpx;
+		line-height: 80rpx;
+		background: #007aff;
+		color: #fff;
+		border-radius: 10rpx;
+}

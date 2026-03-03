@@ -1,0 +1,1 @@
+<view class="topic-page data-v-6c699af1"><view class="topic-list data-v-6c699af1"><toptic-item wx:for="{{a}}" wx:for-item="item" wx:key="a" class="data-v-6c699af1" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"/></view></view>

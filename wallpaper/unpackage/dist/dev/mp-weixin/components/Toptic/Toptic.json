@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "专题",
+  "usingComponents": {
+    "toptic-item": "../../pages/Toptic-item/Toptic-item"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Login.js","sources":["D:/浏览器下载/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvTG9naW4vTG9naW4udnVl"],"sourcesContent":["import MiniProgramPage from 'C:/Users/0000/Desktop/wallpaper/pages/Login/Login.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

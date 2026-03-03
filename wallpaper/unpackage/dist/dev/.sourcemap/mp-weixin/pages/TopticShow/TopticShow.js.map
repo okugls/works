@@ -1,0 +1,1 @@
+{"version":3,"file":"TopticShow.js","sources":["D:/浏览器下载/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvVG9wdGljU2hvdy9Ub3B0aWNTaG93LnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'C:/Users/0000/Desktop/wallpaper/pages/TopticShow/TopticShow.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

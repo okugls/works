@@ -1,0 +1,1 @@
+{"version":3,"file":"Feedback.js","sources":["D:/浏览器下载/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvRmVlZGJhY2svRmVlZGJhY2sudnVl"],"sourcesContent":["import MiniProgramPage from 'C:/Users/0000/Desktop/wallpaper/pages/Feedback/Feedback.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;;;;AACA,GAAG,WAAW,eAAe;"}
