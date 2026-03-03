@@ -1,1 +1,0 @@
-<view class="classify-contain data-v-2af44efb"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="classify-item data-v-2af44efb" bindtap="{{item.d}}"><image class="data-v-2af44efb" src="{{item.a}}" mode="scaleToFill"></image><view class="classify-item-text data-v-2af44efb"><text class="data-v-2af44efb">{{item.b}}</text></view></view></view>

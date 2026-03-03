@@ -1,1 +1,0 @@
-<view class="main-contain data-v-ff7357c5"><view wx:for="{{a}}" wx:for-item="item" wx:key="b" class="img data-v-ff7357c5" bindtap="{{item.c}}"><image class="data-v-ff7357c5" src="{{item.a}}" mode="scaleToFill"></image></view></view>

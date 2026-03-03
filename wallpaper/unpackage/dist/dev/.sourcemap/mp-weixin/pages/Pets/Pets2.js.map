@@ -1,1 +1,0 @@
-{"version":3,"file":"Pets2.js","sources":["D:/浏览器下载/HBuilderX/plugins/uniapp-cli-vite/uniPage:/QzovVXNlcnMvMDAwMC9EZXNrdG9wL3dhbGxwYXBlci9wYWdlcy9QZXRzL1BldHMudnVl"],"sourcesContent":["import MiniProgramPage from 'C:/Users/0000/Desktop/wallpaper/pages/Pets/Pets.vue'\nwx.createPage(MiniProgramPage)"],"names":["MiniProgramPage"],"mappings":";;AACA,GAAG,WAAWA,KAAe,eAAA;"}

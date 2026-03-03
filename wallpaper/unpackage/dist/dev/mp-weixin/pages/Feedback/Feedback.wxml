@@ -1,1 +1,0 @@
-<view class="feedback-static data-v-6881f491"><view class="title data-v-6881f491">反馈意见</view><view class="desc data-v-6881f491">请扫码添加QQ反馈问题</view><image class="qrcode data-v-6881f491" src="{{a}}" mode="widthFix"></image><text class="tip data-v-6881f491">QQ：1261175950</text></view>
