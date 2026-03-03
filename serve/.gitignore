@@ -1,0 +1,14 @@
+# Node.js 依赖（核心：过滤 node_modules）
+node_modules/
+package-lock.json
+
+# 环境配置文件
+.env
+.env.local
+
+# 日志文件
+*.log
+
+# 系统临时文件
+.DS_Store
+Thumbs.db
